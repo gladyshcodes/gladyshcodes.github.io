@@ -43,3 +43,36 @@ hr {
   font-size: 2.5em;
   opacity: 0.3;
 }
+
+.site-header {
+  border-bottom: 1px solid #e8e8e8;
+  padding: 1rem 0;
+  margin-bottom: 2rem;
+}
+
+.wrapper {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 0 1rem;
+}
+
+.site-title {
+  font-size: 1.5rem;
+  font-weight: bold;
+  text-decoration: none;
+  color: #333;
+}
+
+.site-nav {
+  float: right;
+}
+
+.page-link {
+  margin-left: 1.5rem;
+  color: #666;
+  text-decoration: none;
+}
+
+.page-link:hover {
+  color: #333;
+}
