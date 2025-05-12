@@ -2,6 +2,16 @@ body {
   font-family: monospace;
 }
 
+.site-header {
+  border-bottom: 0;
+  border-top: 0;
+}
+
+.site-footer .wrapper {
+  border-top: 5px solid #424242;
+  border-bottom: 1px solid #e8e8e8;
+}
+
 hr {
   margin-top: 30px;
   margin-bottom: 20px;
